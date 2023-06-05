@@ -7,5 +7,5 @@
 Python, Django, DRF, REST API, , Bootstrap 3/4/5, , HTML, CSS(немного), git, js, pytest, unittest, json, PostgreSQL, Docker, Docker-compose, CI/CD, Ubuntu, и некоторые другие
 
 # Мои контакты:
-<a href="https://t.me/Olegsnap"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" height = "70" width="100"/></a>
+<a href="https://t.me/Olegsnap"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/telegram.svg" height = "100" width="100"/></a>
 <a href ="mailto:snap710@yandex.ru"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Yandex_Mail_icon.svg" height = "100" width="100"/></a>
